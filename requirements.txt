@@ -1,0 +1,6 @@
+PyYAML>=6.0
+# optional, only for live runs — install the one matching --provider:
+# anthropic>=0.40.0     # --provider anthropic   (env: ANTHROPIC_API_KEY)
+# openai>=1.50.0        # --provider openai      (env: OPENAI_API_KEY)
+# google-genai>=0.3.0   # --provider gemini      (env: GEMINI_API_KEY)
+# openai>=1.50.0        # --provider openrouter  (env: OPENROUTER_API_KEY) -- same SDK, different base_url

@@ -1,0 +1,19 @@
+.vercel
+__pycache__/
+*.pyc
+*.bak
+*.pre-regrade.bak
+
+# session scratch / regenerable intermediates
+_mittest.json
+findings_out.json
+labels_data.json
+results/results.partial.json
+
+# never commit a real API key or environment file
+.env
+.env.*
+
+# run logs / experiment outputs
+rr.log
+refusal_rate_results.json
