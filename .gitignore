@@ -17,3 +17,6 @@ results/results.partial.json
 # run logs / experiment outputs
 rr.log
 refusal_rate_results.json
+
+# local agent notes (kept out of the repo)
+/CLAUDE.md
